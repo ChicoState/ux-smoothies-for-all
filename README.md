@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Luke Hazelton](!!!https://github.com/ChicoState/ux-personal-portfolio-lukehaz!!!)** - !!!List of Person A's primary contributions!!!
+* **[Luke Hazelton](!!! https://github.com/ChicoState/ux-personal-portfolio-lukehaz !!!)** - !!!List of Person A's primary contributions!!!
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
