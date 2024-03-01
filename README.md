@@ -5,7 +5,7 @@
 ## UX Team Members
 
 * **[Luke Hazelton](https://github.com/ChicoState/ux-personal-portfolio-lukehaz/)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Pranav Gopalakumaran](https://github.com/PranavGopalak/ux-personal-portfolio-pranav)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
