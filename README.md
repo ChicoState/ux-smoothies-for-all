@@ -6,7 +6,7 @@
 
 * **[Luke Hazelton](https://github.com/ChicoState/ux-personal-portfolio-lukehaz/)** - !!!List of Person A's primary contributions!!!
 * **[Pranav Gopalakumaran](https://github.com/PranavGopalak/ux-personal-portfolio-pranav)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Giovanni DiSalvo](https://github.com/ChicoState/ux-personal-portfolio-gdisalvo30)** - p01(Method Choice)
 
 # User-Centered Design Artifacts
  
