@@ -23,7 +23,7 @@ A way for everyone to find and share their favorite smoothies!
 
 * Goal: making finding smoothie recipes people enjoy easy and free
 * We performed competitive analysis, created personas and scenarios, a low fidelity design artifact, and performed heuristic evalulations.
-* Competitive analysis showed that their a market for both a free and smoothie specialized social media application 
+* Competitive analysis showed that their is a market for both a free and "smoothie specialized" social media application 
 * Users want something convient and efficient 
 * Use of personas and scenarios reinforced findings that: users will be health conscious individuals and want a convenient way to find new smoothies.
 * Our sketches highlighted our vision for a simple UI that is efficent and easy to use.
