@@ -1,6 +1,6 @@
 # Personas
 
-[Personas](Personas.pdf)
+[Personas](JustPersonas.pdf)
 
 # Scenarios
 
