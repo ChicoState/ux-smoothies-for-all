@@ -1,6 +1,6 @@
 # Smoothies-for-all
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+A way for everyone to find and share their favorite smoothies!
 
 ## UX Team Members
 
@@ -21,8 +21,8 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
+* Goal: making finding smoothie recipes people enjoy easy and free
+* We performed competitive analysis, created personas and scenarios, a low fidelity design artifact, and performed heuristic evalulations.
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
