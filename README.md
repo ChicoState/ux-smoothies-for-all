@@ -5,7 +5,7 @@ A way for everyone to find and share their favorite smoothies!
 ## UX Team Members
 
 * **[Luke Hazelton](https://github.com/ChicoState/ux-personal-portfolio-lukehaz/)** - !!!List of Person A's primary contributions!!!
-* **[Pranav Gopalakumaran](https://github.com/PranavGopalak/ux-personal-portfolio-pranav)** - !!!List of Person B's primary contributions!!!
+* **[Pranav Gopalakumaran](https://github.com/PranavGopalak/ux-personal-portfolio-pranav)** - p01(Introduction and Caveats)
 * **[Giovanni DiSalvo](https://github.com/ChicoState/ux-personal-portfolio-gdisalvo30)** - p01(Method Choice & Conclusion)
 
 # User-Centered Design Artifacts
