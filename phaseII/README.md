@@ -18,7 +18,8 @@ WT4: "Wants to find ideas for smoothies to make" This walk through was again wit
 
 WT5: "Be able to view his favorite smoothie recipes in the morning while making breakfast" Albert will be able to successfully log into the application and will know this is successful because the login button will disappear. After this Albert can click onto the favorites tab to view his favorite recipes,verifying that it works.
 
-We need to add "In addition, it should describe how informal feedback was gathered, including the questions that were asked during the SE team's demo and that a classroom of undergraduate software engineering students provided responses to those questions."
+In addition to cognative walk throughs, we also gathered some **informal feedback** from an unbias group that was demoed the current application. We asked, what features would like seen added to this app? The feedback we got was that users would like a "smoothie of the day" feature. We also asked, what improvements would you like to see added to our UI? The feedback recived from this was that users wanted forum for the recipes, as right now we have recipe discovery as a feed.
+
 
 ## Findings
 
