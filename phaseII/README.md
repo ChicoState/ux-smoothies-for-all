@@ -42,3 +42,11 @@ From our informal feedback, we asked them, what features would you like seen add
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+
+We are a team found many caveats,
+
+The three personalities that were employed—Johnathan, Amanda, and Albert—are fictitious creations meant to symbolize our user population. But the demands, habits, and histories of actual users could be more nuanced than those portrayed by these personalities. Over-reliance on these identities runs the danger of obscuring the subtleties of real user experiences.
+
+The input from the informal feedback was great, but it's important to understand that it could not be totally representative of all possible users. Features like "smoothie of the day" or a recipe forum preferences may represent the preferences of a certain user subgroup rather than a general need.
+
+Based on the given situations, the research hypothesized that users would engage with the program in predictable ways. In practice, users could utilize the software in novel ways not addressed by the walkthroughs. These unusual use trends may provide further information about the requirements and preferences of users.
