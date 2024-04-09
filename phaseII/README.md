@@ -6,7 +6,19 @@ Smoothies For All is working on a simple yet important task: helping everyday pe
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+For phase-2 we had **5 external UX evaluators** perform cognitive walkthroughs. The personas used in these walkthroughs were: Johnathan, Amanda, and Albert(3x). To perform these walkthroughs, each external UX evaluator navigated through a scenario in a wireframe of our application as a persona of a potential user. For each persona/scenario we set out to answer two questions: "Will the user know what to do at this step?" and "If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?".
+
+WT1: "Amanda wanted to find a healthy but nice treat for her boyfriend after work" This walkthrough helped us determine that users may get confused when logging into the application, for instance Amanda doesn't know if the application remembers credentials or not. This walkthrough of Amanda also brought up that she was confused on how to manually search for a specific kind of smoothie she wanted. So neither of our questions were completely answered.
+
+WT2: "I am trying to find ideas for smoothies to make" Our first question for this walkthrough was answered as Johnathan was able to scroll through the application and browse for different smoothies to try, but was stuck when he could not find a search bar. Our second question was "somewhat" answered, as Johnathan can access recipes he has favourited through the profile page.
+
+WT3: "Wants to find ideas for smoothies to make" For each step of this walk through both questions were able to be answered. Albert was able to: Scroll on the home page until he found a smoothie he liked, read about the smoothie that caught his eye, and follow the steps to make the smoothie.
+
+WT4: "Wants to find ideas for smoothies to make" This walk through was again with Albert but yielded a different analysis. Albert did know what to do at each step but was unsure if everything worked as intended. This leads into the second question not being answered, as Albert had no error/approval messages telling him if he was on the right or wrong track.
+
+WT5: "Be able to view his favorite smoothie recipes in the morning while making breakfast" Albert will be able to successfully log into the application and will know this is successful because the login button will disappear. After this Albert can click onto the favorites tab to view his favorite recipes,verifying that it works.
+
+We need to add "In addition, it should describe how informal feedback was gathered, including the questions that were asked during the SE team's demo and that a classroom of undergraduate software engineering students provided responses to those questions."
 
 ## Findings
 
