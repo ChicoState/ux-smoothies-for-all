@@ -6,7 +6,7 @@ Smoothies For All is working on a simple yet important task: helping everyday pe
 
 ## Methods
 
-For phase-2 we had **5 external UX evaluators** perform cognitive walkthroughs. The personas used in these walkthroughs were: Johnathan, Amanda, and Albert(3x). To perform these walkthroughs, each external UX evaluator navigated through a scenario in a wireframe of our application as a persona of a potential user. For each persona/scenario we set out to answer two questions: "Will the user know what to do at this step?" and "If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?".
+For phase-2 we had **5 external UX evaluators** perform cognitive walkthroughs in order to observe how users interacted with our application. The personas used in these walkthroughs were: Johnathan, Amanda, and Albert(3x). To perform these walkthroughs, each external UX evaluator navigated through a scenario in a wireframe of our application as a persona of a potential user. For each persona/scenario we set out to answer two questions: "Will the user know what to do at this step?" and "If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?".
 
 WT1: "Amanda wanted to find a healthy but nice treat for her boyfriend after work" This walkthrough helped us determine that users may get confused when logging into the application, for instance Amanda doesn't know if the application remembers credentials or not. This walkthrough of Amanda also brought up that she was confused on how to manually search for a specific kind of smoothie she wanted. So neither of our questions were completely answered.
 
