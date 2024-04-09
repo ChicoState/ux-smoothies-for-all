@@ -43,7 +43,7 @@ From our informal feedback, we asked them, what features would you like seen add
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
-We are a team found many caveats,
+We as a team found many caveats,
 
 The three personalities that were employed—Johnathan, Amanda, and Albert—are fictitious creations meant to symbolize our user population. But the demands, habits, and histories of actual users could be more nuanced than those portrayed by these personalities. Over-reliance on these identities runs the danger of obscuring the subtleties of real user experiences.
 
