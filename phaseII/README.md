@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Smoothies For All is working on a simple yet important task: helping everyday people easily find smoothie recipes. We want to make sure that everyone can get these recipes without having to go through a pay wall. This means that if you're looking for a new and tasty smoothie to try, you won't have to spend any money to find great ideas. The goal is to make it straightforward for anyone to enjoy making and drinking smoothies without the hassle of dealing with hidden costs or complicated instructions.
 
 ## Methods
 
