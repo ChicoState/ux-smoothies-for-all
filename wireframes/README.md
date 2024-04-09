@@ -1,2 +1,2 @@
 # Wireframes
-![](wireframesmoothies.pdf)
+[Link to PDF](wireframesmoothies.pdf)
