@@ -37,11 +37,9 @@ From our informal feedback, we asked them, what features would you like seen add
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on the methods we employed and the findings derived from cognitive walkthroughs and informal feedback, valuable insights have emerged to inform UX design recommendations for our application **Smoothies For All**. These insights pinpoint specific user pain points and highlight opportunities for improvement. The walkthroughs revealed challenges such as confusion with user self validation and search functionality. This indicates the need for clearer processes and better features. Additionally, informal feedback emphasized requests for a "smoothie of the day" feature and a recipe forum to enrich user engagement. To address these findings, key recommendations include clarifying to users authentication processes were successful, improving search functionality, implementing clear feedback indicators, and integrating requested features like a forum.
 
 ## Caveats
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
 We as a team found many caveats,
 
