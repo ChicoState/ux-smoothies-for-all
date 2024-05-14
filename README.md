@@ -6,7 +6,7 @@ A way for everyone to find and share their favorite smoothies!
 
 * **[Luke Hazelton](https://github.com/ChicoState/ux-personal-portfolio-lukehaz/)** -  p01(Findings) p02(Introduction and Methods) p03(Caveats and Introduction)
 * **[Pranav Gopalakumaran](https://github.com/PranavGopalak/ux-personal-portfolio-pranav)** - p01(Introduction and Caveats) p02(Findings and Conclusion) p03(Method and Findings)
-* **[Giovanni DiSalvo](https://github.com/ChicoState/ux-personal-portfolio-gdisalvo30)** - p01(Method Choice & Conclusion) p02(Caveats)
+* **[Giovanni DiSalvo](https://github.com/ChicoState/ux-personal-portfolio-gdisalvo30)** - p01(Method Choice & Conclusion) p02(Caveats) p03(Conclusion and Executive Summary)
 
 # User-Centered Design Artifacts
 
