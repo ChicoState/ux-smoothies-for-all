@@ -15,7 +15,7 @@ A way for everyone to find and share their favorite smoothies!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototype)
+* [Prototype](prototype/Prototype-smoothie.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
