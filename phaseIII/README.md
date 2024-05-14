@@ -12,15 +12,19 @@ The following questions were surveyed to 7 participants
 Create an account and start viewing smoothie recipes.
     Task Description: Focused on the starting page and creating an account.
     What We Hope to Learn: We want to see if users can easily sign up and start using the app. We want to know if there are any confusing steps.
+
 Find a way to post your smoothie recipe for everyone to see.
     Task Description: Users tried to share their own smoothie recipes.
     What We Hope to Learn: We want to know if posting a recipe is easy and clear. We are looking for any problems users might have.
+
 Leave feedback on a recipe that you liked.
     Task Description: Users left comments on a smoothie recipe they enjoyed.
     What We Hope to Learn: We want to see if users can easily leave feedback. We need to know if the feedback feature is easy to find and use.
+
 Update your profile for everyone on the app to see.
     Task Description: Users updated their profile information.
     What We Hope to Learn: We want to know if updating the profile is easy. We are checking if users can make changes without problems.
+    
 Find a way to save your favorite recipe and find out where it got saved.
     Task Description: Users saved a favorite recipe and found where it was stored.
     What We Hope to Learn: We want to see if saving and finding recipes is simple. We need to know if users can easily access their saved recipes.
