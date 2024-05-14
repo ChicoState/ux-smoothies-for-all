@@ -9,8 +9,6 @@ A way for everyone to find and share their favorite smoothies!
 * **[Giovanni DiSalvo](https://github.com/ChicoState/ux-personal-portfolio-gdisalvo30)** - p01(Method Choice & Conclusion) p02(Caveats)
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
