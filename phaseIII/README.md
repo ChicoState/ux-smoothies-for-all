@@ -34,7 +34,7 @@ We asked our participants to use the “think aloud” strategy, which proved to
 
 ## Findings
 
-The Data from our user testing is as follows:
+### The Data from our user testing is as follows:
     Task 1: Create an account and start viewing smoothie recipes
         All participants completed the task successfully.
         Time taken ranged from 3 seconds to 30 seconds, with most participants completing it within 5 seconds.
@@ -57,19 +57,21 @@ The Data from our user testing is as follows:
         Most participants rated the task as "Easy" (Rank 5), with a couple rating it 3.
 
 
-Frustrations and Additional Features:
+### Frustrations and Additional Features:
     Some participants found it difficult to find saved favorites.
     Suggested added features included:
     * Tracking calories
     * Multiple photos per post
 
-Overall Trends and Insights:
+### Overall Trends and Insights:
     Ease of Use: Most tasks were rated as "Easy" and completed quickly, indicating the app is user-friendly.
     Positive Reception: Users liked the design and user interface, which contributed to a positive overall experience.
     Feature Requests: Users desire additional features such as better navigation, enhanced content management (more pictures, multiple photos per post), and functional improvements (favorites section, filters).
     Minor Frustrations: A few participants struggled with finding saved recipes and suggested improvements for better usability.
 
-    Link to Data Collection Spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/1BMjUBgXNUe8DhKyrbglWUWcO9GmABlVeU8BrS1UgDNI/edit?usp=sharing)
+Link to Data Collection Spreadsheet: 
+
+[Google Sheets](https://docs.google.com/spreadsheets/d/1BMjUBgXNUe8DhKyrbglWUWcO9GmABlVeU8BrS1UgDNI/edit?usp=sharing)
 
 ## Conclusions
 
