@@ -47,9 +47,12 @@ A way for everyone to find and share their favorite smoothies!
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Most tasks were generally easy for participants, despite challenges due to their familiarity with other social media platforms,
+* Gained valuable insight such as favorite tabs, filters, feedback animations, nav bar, etc.
+* Test fatigue had a large part in our experimentation as both participants and examiners. This could have had implications on our study and refining our testing.
+* Task 5, which consisted of saving and locating saved posts, seemed to be the most difficult of the bunch, and could be improved with favorites tab rather than being inside of profile.
+* Generally good and positive feedback despite a prototype containing bugs/incomplete features. Most suggestions were rather minor, the prototype was largely well received, with a task taking no longer than 45 seconds for all participants.
+
+
 
 [Full phase III report](phaseIII/)
